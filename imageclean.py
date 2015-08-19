@@ -1,5 +1,5 @@
 #!/usr/local/bin/python
-#imports
+# imports
 import sys, os
 
 os.system("mogrify -format png flairedit/*.gif")
